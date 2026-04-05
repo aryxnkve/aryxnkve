@@ -1,5 +1,10 @@
 # 💫 About Me:
-My engineering and exploring IOT.<br>Open-source web development and innovative IoT/hardware projects.<br>Advancing my skills in cybersecurity and scaling up my hardware builds.<br>Kali Linux, sharpening my C/C++ and Python skills, and diving deeper into clean web design.<br>Digital logic design, building with Arduino/ESP32, or space tech (shoutout to the Orbitron space society!).<br>I love geeking my Royal Enfield and make sick edits on it(usually making my own beat)
+🔭 I’m currently working on My engineering Majors and IOT exploration.
+👯 looking to collaborate on open-source web development and innovative IoT/hardware projects.
+🤝 looking for help with advancing my skills in cybersecurity and scaling up my hardware builds.
+🌱 I’m currently learning Kali Linux, sharpening my C/C++ and Python skills, and diving deeper into clean web design.
+💬 Ask me about digital logic design, building with Arduino/ESP32, or space tech.
+⚡ Fun fact: I love geeking my royal enfield and make sick edits on it( usually on beats i make myself)
 
 
 ## 🌐 Socials:
